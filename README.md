@@ -1,5 +1,5 @@
 # Pegasus meteors V 1.0: Simple Ddos attack tool
-
+Vestido tool for Ethical hacking dutch
  Simple tool to perform Distributed denial of service attack
  
  Created by: Cha0smagick
